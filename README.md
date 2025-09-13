@@ -43,7 +43,7 @@ This is a Flutter project for a video conferencing application.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/preposterous-cat/pikpo-video-conference.git
+   git clone https://github.com/danialhr/video-conference.git
    cd pikpo-video-conference
    ```
 2. Install the required dependencies:
@@ -67,8 +67,8 @@ To run the tests for the project, use the following command:
 
 ### Backend URL
 
-- The backend for this project is deployed and can be accessed at: https://pikpo-video-conference-be.vercel.app
-- The Github for backend can be accessed at: https://github.com/preposterous-cat/pikpo-video-conference-be
+- You may consider deploying this project on vercel.app or any other platoforms for testing purpose. 
+- The Github for backend can be accessed at: https://github.com/danialhr/video-conference-be
 
 ### Additional Notes
 
